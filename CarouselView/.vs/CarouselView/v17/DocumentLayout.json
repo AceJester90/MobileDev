@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aceje\\source\\repos\\CarouselView\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C277F18E-4CAF-4FCA-BDD9-E056D4DA386A}|CarouselView\\CarouselView\\CarouselView.csproj|c:\\users\\aceje\\source\\repos\\carouselview\\carouselview\\carouselview\\animalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C277F18E-4CAF-4FCA-BDD9-E056D4DA386A}|CarouselView\\CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\carouselview\\animalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C277F18E-4CAF-4FCA-BDD9-E056D4DA386A}|CarouselView\\CarouselView\\CarouselView.csproj|c:\\users\\aceje\\source\\repos\\carouselview\\carouselview\\carouselview\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C277F18E-4CAF-4FCA-BDD9-E056D4DA386A}|CarouselView\\CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\carouselview\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C277F18E-4CAF-4FCA-BDD9-E056D4DA386A}|CarouselView\\CarouselView\\CarouselView.csproj|c:\\users\\aceje\\source\\repos\\carouselview\\carouselview\\carouselview\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{C277F18E-4CAF-4FCA-BDD9-E056D4DA386A}|CarouselView\\CarouselView\\CarouselView.csproj|solutionrelative:carouselview\\carouselview\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimalModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aceje\\source\\repos\\CarouselView\\CarouselView\\CarouselView\\AnimalModel.cs",
+              "RelativeDocumentMoniker": "CarouselView\\CarouselView\\AnimalModel.cs",
+              "ToolTip": "C:\\Users\\Aceje\\source\\repos\\CarouselView\\CarouselView\\CarouselView\\AnimalModel.cs",
+              "RelativeToolTip": "CarouselView\\CarouselView\\AnimalModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:00:36.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Aceje\\source\\repos\\CarouselView\\CarouselView\\CarouselView\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "CarouselView\\CarouselView\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Aceje\\source\\repos\\CarouselView\\CarouselView\\CarouselView\\MainPage.xaml.cs",
+              "RelativeToolTip": "CarouselView\\CarouselView\\MainPage.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:57:49.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Aceje\\source\\repos\\CarouselView\\CarouselView\\CarouselView\\MainPage.xaml",
+              "RelativeDocumentMoniker": "CarouselView\\CarouselView\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Aceje\\source\\repos\\CarouselView\\CarouselView\\CarouselView\\MainPage.xaml",
+              "RelativeToolTip": "CarouselView\\CarouselView\\MainPage.xaml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-29T14:52:13.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

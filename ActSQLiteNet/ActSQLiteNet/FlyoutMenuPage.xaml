@@ -1,0 +1,42 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Flyout Menu"
+             xmlns:local="clr-namespace:ActSQLiteNet"
+             xmlns:view="clr-namespace:ActSQLiteNet.View"
+             x:Class="ActSQLiteNet.FlyoutMenuPage">
+
+    <ContentPage.Resources>
+        <OnPlatform x:Key="FontAwesome" x:TypeArguments="x:String">
+            <On Platform="Android" Value="FontAwesome.ttf#FontAwesome" />
+            <On Platform="iOS" Value="FontAwesome" />
+            <On Platform="UWP" Value="/Assets/FontAwesome.ttf#FontAwesome" />
+        </OnPlatform>
+    </ContentPage.Resources>
+
+    <StackLayout>
+        <ListView x:Name="listview" x:FieldModifier="public">
+            <ListView.ItemsSource>
+                <x:Array Type="{x:Type local:FlyoutItemPage}">
+                    <local:FlyoutItemPage Title="Home Page" TargetPage="{x:Type view:HomePage}" />
+                    <local:FlyoutItemPage Title="Items" TargetPage="{x:Type view:EmployeePage}" />
+                    <local:FlyoutItemPage Title="Profile" TargetPage="{x:Type view:Profile}" />
+                    <local:FlyoutItemPage Title="About Us" TargetPage="{x:Type view:AboutUs}" />
+                </x:Array>
+            </ListView.ItemsSource>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="33"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Image Source="{Binding Image}" WidthRequest="24" HeightRequest="24" VerticalOptions="Center" />
+                            <Label Grid.Column="1" Text="{Binding Title}" VerticalOptions="Center"/>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

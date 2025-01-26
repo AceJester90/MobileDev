@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="About Page"
+             x:Class="ActSQLiteNet.View.AboutUs">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Simple Online Store"
+                   FontAttributes="Bold"
+                   HorizontalOptions="CenterAndExpand"
+                   FontSize="30"
+                   TextColor="Azure"/>
+            <Label Text="               Simple Online Store is a comprehensive mobile app
+programming project designed to equip learners with
+the essential skills and knowledge needed to develop
+mobile applications for iOS and Android platforms.
+Through a structured curriculum, participants will delve
+into the fundamentals of mobile app development,
+focusing primarily on Swift for iOS and Kotlin for
+Android. By the end of the Simple Online Store project,
+learners will have gained a solid understanding of mobile
+app programming concepts and techniques, empowering
+them to embark on their own app development journeys
+with confidence. Whether aspiring developers or
+seasoned professionals seeking to broaden their skill set,
+Simple Online Store offers a comprehensive and accessible
+pathway into the dynamic world of mobile app
+development. By the end of the Simple Online Store project,
+learners will have gained a solid understanding of mobile
+app programming concepts and techniques, empowering
+them to embark on their own app development journeys
+with confidence. Whether aspiring developers or
+seasoned professionals seeking to broaden their skill set,
+Simple Online Store offers a comprehensive and accessible
+pathway into the dynamic world of mobile app
+development."
+                HorizontalOptions="CenterAndExpand"
+                FontSize="Medium"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

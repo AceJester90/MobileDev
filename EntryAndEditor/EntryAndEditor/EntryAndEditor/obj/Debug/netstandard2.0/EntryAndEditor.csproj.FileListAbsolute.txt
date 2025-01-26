@@ -1,0 +1,16 @@
+C:\Users\Aceje\source\repos\EntryAndEditor\EntryAndEditor\EntryAndEditor\bin\Debug\netstandard2.0\EntryAndEditor.deps.json
+C:\Users\Aceje\source\repos\EntryAndEditor\EntryAndEditor\EntryAndEditor\bin\Debug\netstandard2.0\EntryAndEditor.dll
+C:\Users\Aceje\source\repos\EntryAndEditor\EntryAndEditor\EntryAndEditor\bin\Debug\netstandard2.0\ref\EntryAndEditor.dll
+C:\Users\Aceje\source\repos\EntryAndEditor\EntryAndEditor\EntryAndEditor\bin\Debug\netstandard2.0\EntryAndEditor.pdb
+C:\Users\Aceje\source\repos\EntryAndEditor\EntryAndEditor\EntryAndEditor\obj\Debug\netstandard2.0\EntryAndEditor.csproj.AssemblyReference.cache
+C:\Users\Aceje\source\repos\EntryAndEditor\EntryAndEditor\EntryAndEditor\obj\Debug\netstandard2.0\EntryAndEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aceje\source\repos\EntryAndEditor\EntryAndEditor\EntryAndEditor\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Aceje\source\repos\EntryAndEditor\EntryAndEditor\EntryAndEditor\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Aceje\source\repos\EntryAndEditor\EntryAndEditor\EntryAndEditor\obj\Debug\netstandard2.0\NewStudentPage.xaml.g.cs
+C:\Users\Aceje\source\repos\EntryAndEditor\EntryAndEditor\EntryAndEditor\obj\Debug\netstandard2.0\EntryAndEditor.AssemblyInfoInputs.cache
+C:\Users\Aceje\source\repos\EntryAndEditor\EntryAndEditor\EntryAndEditor\obj\Debug\netstandard2.0\EntryAndEditor.AssemblyInfo.cs
+C:\Users\Aceje\source\repos\EntryAndEditor\EntryAndEditor\EntryAndEditor\obj\Debug\netstandard2.0\EntryAndEditor.csproj.CoreCompileInputs.cache
+C:\Users\Aceje\source\repos\EntryAndEditor\EntryAndEditor\EntryAndEditor\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Aceje\source\repos\EntryAndEditor\EntryAndEditor\EntryAndEditor\obj\Debug\netstandard2.0\EntryAndEditor.dll
+C:\Users\Aceje\source\repos\EntryAndEditor\EntryAndEditor\EntryAndEditor\obj\Debug\netstandard2.0\refint\EntryAndEditor.dll
+C:\Users\Aceje\source\repos\EntryAndEditor\EntryAndEditor\EntryAndEditor\obj\Debug\netstandard2.0\EntryAndEditor.pdb

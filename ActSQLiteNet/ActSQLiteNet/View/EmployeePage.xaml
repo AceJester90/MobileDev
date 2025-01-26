@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:converters="clr-namespace:ActSQLiteNet.Converters"
+             x:Class="ActSQLiteNet.View.EmployeePage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add"
+                     Clicked="ToolbarItem_Clicked"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:ByteArrayToImageSourceConverter x:Key="ByteArrayToImageSourceConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <StackLayout>
+        <SearchBar Placeholder="Search Employee"
+                   TextChanged="SearchBar_TextChanged"
+                   BackgroundColor="White"
+                   IsVisible="true"
+                   x:Name="searchBar"/>
+        <CollectionView x:Name="myCollectionView"
+                        SelectionMode="Single"
+                        Margin="20,5,20,0">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <SwipeView>
+                        <SwipeView.RightItems>
+                            <SwipeItems>
+                                <SwipeItem Text="Edit"
+                       BackgroundColor="LightBlue"
+                       CommandParameter="{Binding .}"
+                       Invoked="SwipeItem_Invoked"/>
+                                <SwipeItem Text="Delete"
+                       BackgroundColor="IndianRed"
+                       CommandParameter="{Binding .}"
+                       Invoked="SwipeItem_Invoked_1"/>
+                            </SwipeItems>
+                        </SwipeView.RightItems>
+                        <Frame BackgroundColor="Beige" CornerRadius="5" Margin="5">
+                            <!-- Making the frame dark blue -->
+                            <Grid RowSpacing="0">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+                                <Image Source="{Binding ImageData, Converter={StaticResource ByteArrayToImageSourceConverter}}"
+                                       Grid.Row="0" Grid.RowSpan="3" Grid.Column="0"
+                                       HeightRequest="100" WidthRequest="100" Aspect="AspectFill"/>
+                                <Label Text="{Binding Name}"
+                                       Grid.Row="1" Grid.Column="1"
+                                       VerticalOptions="CenterAndExpand"
+                                       FontSize="20"
+                                       FontAttributes="Bold"
+                                       TextColor="Black"/>
+                                <Label Text="{Binding Price, StringFormat='Price: {0:C}'}"
+                                       Grid.Row="2" Grid.Column="1"
+                                       TextColor="Black"/>
+                            </Grid>
+                        </Frame>
+                    </SwipeView>
+
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+</ContentPage>

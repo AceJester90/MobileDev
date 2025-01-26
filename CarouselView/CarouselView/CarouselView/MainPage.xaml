@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CarouselView.MainPage">
+
+    <StackLayout>
+        <Label x:Name="previousItem"
+               FontSize="25"/>
+        <Label x:Name="currentItem"
+               FontSize="25"/>
+        <CarouselView x:Name="myCarouselView"
+                      IndicatorView="indicatorView"
+                      CurrentItemChanged="myCarouselView_CurrentItemChanged">
+            <CarouselView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout>
+                        <Frame HasShadow="True"
+                               BorderColor="Black"
+                               CornerRadius="10"
+                               Margin="20"
+                               HeightRequest="300"
+                               HorizontalOptions="Center"
+                               VerticalOptions="CenterAndExpand">
+                            <SwipeView>
+                                <SwipeView.TopItems>
+                                    <SwipeItem Text="Edit"
+                                               BackgroundColor="Green"/>
+                                </SwipeView.TopItems>
+                                <SwipeView.BottomItems>
+                                    <SwipeItem Text="Delete"
+                                               BackgroundColor="Red"/>
+                                </SwipeView.BottomItems>
+                            <StackLayout>
+                                <Label Text="{Binding Name}"
+                                       FontSize="Large"
+                                       FontAttributes="Bold"
+                                       HorizontalTextAlignment="Center"
+                                       VerticalTextAlignment="Center"
+                                       TextColor="Red"/>
+                                <Image Source="{Binding Image}"
+                                       Aspect="AspectFill"
+                                       HeightRequest="150"
+                                       WidthRequest="150"
+                                       HorizontalOptions="Center"/>
+                                <Label Text="{Binding Group}"
+                                       HorizontalOptions="Center"
+                                       TextColor="Red"/>
+                            </StackLayout>
+                            </SwipeView>
+                        </Frame>
+                    </StackLayout>
+                </DataTemplate>
+            </CarouselView.ItemTemplate>
+        </CarouselView>
+        <IndicatorView x:Name="indicatorView"
+                       IndicatorColor="LightGray"
+                       SelectedIndicatorColor="DarkGray"
+                       HorizontalOptions="Center"/>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,15 @@
+C:\Users\Aceje\source\repos\CarouselView\CarouselView\CarouselView\bin\Debug\netstandard2.0\CarouselView.deps.json
+C:\Users\Aceje\source\repos\CarouselView\CarouselView\CarouselView\bin\Debug\netstandard2.0\CarouselView.dll
+C:\Users\Aceje\source\repos\CarouselView\CarouselView\CarouselView\bin\Debug\netstandard2.0\ref\CarouselView.dll
+C:\Users\Aceje\source\repos\CarouselView\CarouselView\CarouselView\bin\Debug\netstandard2.0\CarouselView.pdb
+C:\Users\Aceje\source\repos\CarouselView\CarouselView\CarouselView\obj\Debug\netstandard2.0\CarouselView.csproj.AssemblyReference.cache
+C:\Users\Aceje\source\repos\CarouselView\CarouselView\CarouselView\obj\Debug\netstandard2.0\CarouselView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aceje\source\repos\CarouselView\CarouselView\CarouselView\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Aceje\source\repos\CarouselView\CarouselView\CarouselView\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Aceje\source\repos\CarouselView\CarouselView\CarouselView\obj\Debug\netstandard2.0\CarouselView.AssemblyInfoInputs.cache
+C:\Users\Aceje\source\repos\CarouselView\CarouselView\CarouselView\obj\Debug\netstandard2.0\CarouselView.AssemblyInfo.cs
+C:\Users\Aceje\source\repos\CarouselView\CarouselView\CarouselView\obj\Debug\netstandard2.0\CarouselView.csproj.CoreCompileInputs.cache
+C:\Users\Aceje\source\repos\CarouselView\CarouselView\CarouselView\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Aceje\source\repos\CarouselView\CarouselView\CarouselView\obj\Debug\netstandard2.0\CarouselView.dll
+C:\Users\Aceje\source\repos\CarouselView\CarouselView\CarouselView\obj\Debug\netstandard2.0\refint\CarouselView.dll
+C:\Users\Aceje\source\repos\CarouselView\CarouselView\CarouselView\obj\Debug\netstandard2.0\CarouselView.pdb

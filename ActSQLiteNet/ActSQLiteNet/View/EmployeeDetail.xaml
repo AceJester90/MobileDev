@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ActSQLiteNet.View"
+             x:Class="ActSQLiteNet.View.EmployeeDetail">
+    <ContentPage.Content>
+        <StackLayout x:Name="sl" Grid.Row="0" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+            <Button x:Name="btnUpload" Text="Upload Image" Clicked="btnUpload_Clicked"></Button>
+            <Entry Placeholder="Item Name"
+                   x:Name="nameEntry"
+                   TextTransform="Default"/>
+            <Entry Placeholder="Description"
+                   x:Name="addressEntry"/>
+            <local:IntegerEntry Placeholder="Price"
+                                x:Name="priceEntry"/>
+            <Button Text="Save"
+                    Clicked="Button_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

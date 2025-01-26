@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:converters="clr-namespace:ActSQLiteNet.Converters"
+             x:Class="ActSQLiteNet.View.ItemDetail">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:ByteArrayToImageSourceConverter x:Key="ByteArrayToImageSourceConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <Frame BackgroundColor="Beige" CornerRadius="10" Margin="50,150,50,200">
+            <StackLayout>
+                <Image Source="{Binding ImageData, Converter={StaticResource ByteArrayToImageSourceConverter}}"
+                       HeightRequest="200" WidthRequest="200"
+                       Aspect="AspectFill"
+                       Margin="0,0,0,20"/>
+                <Label Text="{Binding Name}"
+                       FontSize="24"
+                       FontAttributes="Bold"
+                       TextColor="Black"
+                       HorizontalOptions="Center"/>
+                <Label Text="{Binding Address}"
+                       FontSize="12"
+                       TextColor="Black"
+                       HorizontalOptions="Center"/>
+                <Label Text="{Binding Price, StringFormat='Price: {0:C}'}"
+                       FontSize="20"
+                       TextColor="Green"
+                       HorizontalOptions="Center"/>
+            </StackLayout>
+        </Frame>
+    </ContentPage.Content>
+
+</ContentPage>

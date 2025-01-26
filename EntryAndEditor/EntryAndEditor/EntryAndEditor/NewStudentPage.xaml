@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EntryAndEditor.NewStudentPage"
+             Title="Create New Student">
+
+    <StackLayout>
+        <Entry x:Name="name" Keyboard="Text" Placeholder="Name"
+               ReturnType="Next" ClearButtonVisibility="WhileEditing"/>
+        <Entry x:Name="course" Keyboard="Text" Placeholder="Course"
+               MaxLength="50" ReturnType="Next"/>
+        <Entry x:Name="contact" Keyboard="Telephone" Placeholder="Contact"
+               MaxLength="12" ReturnType="Next"/>
+        <Entry x:Name="email" Keyboard="Email" Placeholder="Email"/>
+        <Entry x:Name="password" IsPassword="True" Keyboard="Text" Placeholder="Password"/>
+        <Editor x:Name="remarks" Keyboard="Text" Placeholder="Remarks"
+                AutoSize="TextChanges"/>
+        <Button Text="Save" Clicked="Button_Clicked"/>
+    </StackLayout>
+    
+</ContentPage>
