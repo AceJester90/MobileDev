@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Pickers.MainPage">
+
+    <StackLayout Margin="20">
+        <Label Text="Choose a CEO"/>
+        <Picker Title="Choose your CEO"
+                x:Name="ceoPicker"
+                TitleColor="Red"/>
+        <Label Text="Choose a Company"/>
+        <Picker Title="Company"
+                x:Name="companyPicker"
+                ItemDisplayBinding="{Binding Name}"
+                SelectedIndexChanged="companyPicker_SelectedIndexChanged"
+                TitleColor="Blue"/>
+        <Image x:Name="Logo"
+               HeightRequest="400"
+               WidthRequest="400"/>
+        <Label x:Name="lblDescription"
+               FontSize="Medium"
+               VerticalOptions="CenterAndExpand"
+               HorizontalOptions="CenterAndExpand"/>
+    </StackLayout>
+
+
+</ContentPage>

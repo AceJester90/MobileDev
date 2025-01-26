@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Nav_Tab.MainPage"
+             xmlns:local="clr-namespace:Nav_Tab"
+             NavigationPage.HasNavigationBar="False"
+             BarBackgroundColor="Black"
+             SelectedTabColor="SeaGreen"
+             UnselectedTabColor="White"
+             xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+             android:TabbedPage.ToolbarPlacement="Bottom">
+    <local:Page1 Title="About" IconImageSource="about"/>
+    <local:Page2 Title="Courses" IconImageSource="courses"/>
+
+</TabbedPage>

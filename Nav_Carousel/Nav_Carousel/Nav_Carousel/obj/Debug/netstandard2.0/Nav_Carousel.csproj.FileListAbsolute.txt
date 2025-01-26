@@ -1,0 +1,15 @@
+C:\Users\Aceje\source\repos\Nav_Carousel\Nav_Carousel\Nav_Carousel\bin\Debug\netstandard2.0\Nav_Carousel.deps.json
+C:\Users\Aceje\source\repos\Nav_Carousel\Nav_Carousel\Nav_Carousel\bin\Debug\netstandard2.0\Nav_Carousel.dll
+C:\Users\Aceje\source\repos\Nav_Carousel\Nav_Carousel\Nav_Carousel\bin\Debug\netstandard2.0\ref\Nav_Carousel.dll
+C:\Users\Aceje\source\repos\Nav_Carousel\Nav_Carousel\Nav_Carousel\bin\Debug\netstandard2.0\Nav_Carousel.pdb
+C:\Users\Aceje\source\repos\Nav_Carousel\Nav_Carousel\Nav_Carousel\obj\Debug\netstandard2.0\Nav_Carousel.csproj.AssemblyReference.cache
+C:\Users\Aceje\source\repos\Nav_Carousel\Nav_Carousel\Nav_Carousel\obj\Debug\netstandard2.0\Nav_Carousel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aceje\source\repos\Nav_Carousel\Nav_Carousel\Nav_Carousel\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Aceje\source\repos\Nav_Carousel\Nav_Carousel\Nav_Carousel\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Aceje\source\repos\Nav_Carousel\Nav_Carousel\Nav_Carousel\obj\Debug\netstandard2.0\Nav_Carousel.AssemblyInfoInputs.cache
+C:\Users\Aceje\source\repos\Nav_Carousel\Nav_Carousel\Nav_Carousel\obj\Debug\netstandard2.0\Nav_Carousel.AssemblyInfo.cs
+C:\Users\Aceje\source\repos\Nav_Carousel\Nav_Carousel\Nav_Carousel\obj\Debug\netstandard2.0\Nav_Carousel.csproj.CoreCompileInputs.cache
+C:\Users\Aceje\source\repos\Nav_Carousel\Nav_Carousel\Nav_Carousel\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Aceje\source\repos\Nav_Carousel\Nav_Carousel\Nav_Carousel\obj\Debug\netstandard2.0\Nav_Carousel.dll
+C:\Users\Aceje\source\repos\Nav_Carousel\Nav_Carousel\Nav_Carousel\obj\Debug\netstandard2.0\refint\Nav_Carousel.dll
+C:\Users\Aceje\source\repos\Nav_Carousel\Nav_Carousel\Nav_Carousel\obj\Debug\netstandard2.0\Nav_Carousel.pdb

@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aceje\\source\\repos\\Nav_Flyout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8C99C3-42AC-4C3C-8E4B-BCED097A171D}|Nav_Flyout\\Nav_Flyout\\Nav_Flyout.csproj|c:\\users\\aceje\\source\\repos\\nav_flyout\\nav_flyout\\nav_flyout\\flyoutmenupage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{CA8C99C3-42AC-4C3C-8E4B-BCED097A171D}|Nav_Flyout\\Nav_Flyout\\Nav_Flyout.csproj|solutionrelative:nav_flyout\\nav_flyout\\flyoutmenupage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8C99C3-42AC-4C3C-8E4B-BCED097A171D}|Nav_Flyout\\Nav_Flyout\\Nav_Flyout.csproj|c:\\users\\aceje\\source\\repos\\nav_flyout\\nav_flyout\\nav_flyout\\homepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{CA8C99C3-42AC-4C3C-8E4B-BCED097A171D}|Nav_Flyout\\Nav_Flyout\\Nav_Flyout.csproj|solutionrelative:nav_flyout\\nav_flyout\\homepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8C99C3-42AC-4C3C-8E4B-BCED097A171D}|Nav_Flyout\\Nav_Flyout\\Nav_Flyout.csproj|c:\\users\\aceje\\source\\repos\\nav_flyout\\nav_flyout\\nav_flyout\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{CA8C99C3-42AC-4C3C-8E4B-BCED097A171D}|Nav_Flyout\\Nav_Flyout\\Nav_Flyout.csproj|solutionrelative:nav_flyout\\nav_flyout\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8C99C3-42AC-4C3C-8E4B-BCED097A171D}|Nav_Flyout\\Nav_Flyout\\Nav_Flyout.csproj|c:\\users\\aceje\\source\\repos\\nav_flyout\\nav_flyout\\nav_flyout\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8C99C3-42AC-4C3C-8E4B-BCED097A171D}|Nav_Flyout\\Nav_Flyout\\Nav_Flyout.csproj|solutionrelative:nav_flyout\\nav_flyout\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8C99C3-42AC-4C3C-8E4B-BCED097A171D}|Nav_Flyout\\Nav_Flyout\\Nav_Flyout.csproj|c:\\users\\aceje\\source\\repos\\nav_flyout\\nav_flyout\\nav_flyout\\aboutpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{CA8C99C3-42AC-4C3C-8E4B-BCED097A171D}|Nav_Flyout\\Nav_Flyout\\Nav_Flyout.csproj|solutionrelative:nav_flyout\\nav_flyout\\aboutpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8C99C3-42AC-4C3C-8E4B-BCED097A171D}|Nav_Flyout\\Nav_Flyout\\Nav_Flyout.csproj|c:\\users\\aceje\\source\\repos\\nav_flyout\\nav_flyout\\nav_flyout\\flyoutitempage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8C99C3-42AC-4C3C-8E4B-BCED097A171D}|Nav_Flyout\\Nav_Flyout\\Nav_Flyout.csproj|solutionrelative:nav_flyout\\nav_flyout\\flyoutitempage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8C99C3-42AC-4C3C-8E4B-BCED097A171D}|Nav_Flyout\\Nav_Flyout\\Nav_Flyout.csproj|c:\\users\\aceje\\source\\repos\\nav_flyout\\nav_flyout\\nav_flyout\\flyoutmenupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8C99C3-42AC-4C3C-8E4B-BCED097A171D}|Nav_Flyout\\Nav_Flyout\\Nav_Flyout.csproj|solutionrelative:nav_flyout\\nav_flyout\\flyoutmenupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8C99C3-42AC-4C3C-8E4B-BCED097A171D}|Nav_Flyout\\Nav_Flyout\\Nav_Flyout.csproj|c:\\users\\aceje\\source\\repos\\nav_flyout\\nav_flyout\\nav_flyout\\coursespage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{CA8C99C3-42AC-4C3C-8E4B-BCED097A171D}|Nav_Flyout\\Nav_Flyout\\Nav_Flyout.csproj|solutionrelative:nav_flyout\\nav_flyout\\coursespage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8C99C3-42AC-4C3C-8E4B-BCED097A171D}|Nav_Flyout\\Nav_Flyout\\Nav_Flyout.csproj|c:\\users\\aceje\\source\\repos\\nav_flyout\\nav_flyout\\nav_flyout\\logoutpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{CA8C99C3-42AC-4C3C-8E4B-BCED097A171D}|Nav_Flyout\\Nav_Flyout\\Nav_Flyout.csproj|solutionrelative:nav_flyout\\nav_flyout\\logoutpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FlyoutItemPage.cs",
+              "DocumentMoniker": "C:\\Users\\Aceje\\source\\repos\\Nav_Flyout\\Nav_Flyout\\Nav_Flyout\\FlyoutItemPage.cs",
+              "RelativeDocumentMoniker": "Nav_Flyout\\Nav_Flyout\\FlyoutItemPage.cs",
+              "ToolTip": "C:\\Users\\Aceje\\source\\repos\\Nav_Flyout\\Nav_Flyout\\Nav_Flyout\\FlyoutItemPage.cs",
+              "RelativeToolTip": "Nav_Flyout\\Nav_Flyout\\FlyoutItemPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:38:40.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FlyoutMenuPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Aceje\\source\\repos\\Nav_Flyout\\Nav_Flyout\\Nav_Flyout\\FlyoutMenuPage.xaml.cs",
+              "RelativeDocumentMoniker": "Nav_Flyout\\Nav_Flyout\\FlyoutMenuPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Aceje\\source\\repos\\Nav_Flyout\\Nav_Flyout\\Nav_Flyout\\FlyoutMenuPage.xaml.cs",
+              "RelativeToolTip": "Nav_Flyout\\Nav_Flyout\\FlyoutMenuPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:38:15.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlyoutMenuPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Aceje\\source\\repos\\Nav_Flyout\\Nav_Flyout\\Nav_Flyout\\FlyoutMenuPage.xaml",
+              "RelativeDocumentMoniker": "Nav_Flyout\\Nav_Flyout\\FlyoutMenuPage.xaml",
+              "ToolTip": "C:\\Users\\Aceje\\source\\repos\\Nav_Flyout\\Nav_Flyout\\Nav_Flyout\\FlyoutMenuPage.xaml",
+              "RelativeToolTip": "Nav_Flyout\\Nav_Flyout\\FlyoutMenuPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-30T15:23:35.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Aceje\\source\\repos\\Nav_Flyout\\Nav_Flyout\\Nav_Flyout\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Nav_Flyout\\Nav_Flyout\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Aceje\\source\\repos\\Nav_Flyout\\Nav_Flyout\\Nav_Flyout\\MainPage.xaml.cs",
+              "RelativeToolTip": "Nav_Flyout\\Nav_Flyout\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:18:42.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Aceje\\source\\repos\\Nav_Flyout\\Nav_Flyout\\Nav_Flyout\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Nav_Flyout\\Nav_Flyout\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Aceje\\source\\repos\\Nav_Flyout\\Nav_Flyout\\Nav_Flyout\\MainPage.xaml",
+              "RelativeToolTip": "Nav_Flyout\\Nav_Flyout\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-30T15:18:27.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Aceje\\source\\repos\\Nav_Flyout\\Nav_Flyout\\Nav_Flyout\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "Nav_Flyout\\Nav_Flyout\\AboutPage.xaml",
+              "ToolTip": "C:\\Users\\Aceje\\source\\repos\\Nav_Flyout\\Nav_Flyout\\Nav_Flyout\\AboutPage.xaml",
+              "RelativeToolTip": "Nav_Flyout\\Nav_Flyout\\AboutPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-30T15:18:06.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Aceje\\source\\repos\\Nav_Flyout\\Nav_Flyout\\Nav_Flyout\\HomePage.xaml",
+              "RelativeDocumentMoniker": "Nav_Flyout\\Nav_Flyout\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\Aceje\\source\\repos\\Nav_Flyout\\Nav_Flyout\\Nav_Flyout\\HomePage.xaml",
+              "RelativeToolTip": "Nav_Flyout\\Nav_Flyout\\HomePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-30T15:17:52.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoursesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Aceje\\source\\repos\\Nav_Flyout\\Nav_Flyout\\Nav_Flyout\\CoursesPage.xaml",
+              "RelativeDocumentMoniker": "Nav_Flyout\\Nav_Flyout\\CoursesPage.xaml",
+              "ToolTip": "C:\\Users\\Aceje\\source\\repos\\Nav_Flyout\\Nav_Flyout\\Nav_Flyout\\CoursesPage.xaml",
+              "RelativeToolTip": "Nav_Flyout\\Nav_Flyout\\CoursesPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-30T15:17:12.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogoutPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Aceje\\source\\repos\\Nav_Flyout\\Nav_Flyout\\Nav_Flyout\\LogoutPage.xaml",
+              "RelativeDocumentMoniker": "Nav_Flyout\\Nav_Flyout\\LogoutPage.xaml",
+              "ToolTip": "C:\\Users\\Aceje\\source\\repos\\Nav_Flyout\\Nav_Flyout\\Nav_Flyout\\LogoutPage.xaml",
+              "RelativeToolTip": "Nav_Flyout\\Nav_Flyout\\LogoutPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-30T15:16:51.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

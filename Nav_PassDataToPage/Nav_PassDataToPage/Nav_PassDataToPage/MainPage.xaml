@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:CI="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin"
+             x:Class="Nav_PassDataToPage.MainPage"
+             Title="Student">
+
+    <ListView x:Name="myListView" ItemSelected="myListView_ItemSelected">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Orientation="Horizontal" >
+                        <CI:CircleImage Source="{Binding ImageUrl}"
+                                        HeightRequest="40"
+                                        WidthRequest="40"/> 
+                        <StackLayout HorizontalOptions="StartAndExpand" Spacing="0">
+                            <Label Text="{Binding Name}"
+                                   FontSize="Medium"
+                                   TextColor="White"
+                                   FontAttributes="Bold"/> 
+                            <Label Text="{Binding Status}"/>
+                        </StackLayout>
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+
+</ContentPage>

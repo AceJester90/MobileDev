@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PUP.MainPage">
+
+    <StackLayout>
+        <Label Text="DISPLAY ALERT!"
+               FontSize="Medium"
+               HorizontalOptions="Center"/>
+        <Button Text="Button 1"
+                Clicked="Button_Clicked"
+                BackgroundColor="Red"/>
+        <Button Text="Button 2"
+                Clicked="Button_Clicked_1"
+                x:Name="Button2"
+                BackgroundColor="Red"/>
+        <Label Text="DISPLAY ACTION SHEET"
+               FontSize="Medium"
+               HorizontalOptions="Center"/>
+        <Button Text="Button 3"
+                x:Name="Button3"
+                Clicked="Button3_Clicked"
+                BackgroundColor="Red"/>
+        <Label Text="DISPLAY A PROMPT!"
+               FontSize="Medium"
+               HorizontalOptions="Center"/>
+        <Button Text="Button 4"
+                x:Name="Button4"
+                Clicked="Button4_Clicked"
+                BackgroundColor="Red"/>
+    </StackLayout>
+
+
+</ContentPage>

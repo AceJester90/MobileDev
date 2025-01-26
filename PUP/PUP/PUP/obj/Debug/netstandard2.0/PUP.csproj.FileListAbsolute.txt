@@ -1,0 +1,15 @@
+C:\Users\Aceje\source\repos\PUP\PUP\PUP\bin\Debug\netstandard2.0\PUP.deps.json
+C:\Users\Aceje\source\repos\PUP\PUP\PUP\bin\Debug\netstandard2.0\PUP.dll
+C:\Users\Aceje\source\repos\PUP\PUP\PUP\bin\Debug\netstandard2.0\ref\PUP.dll
+C:\Users\Aceje\source\repos\PUP\PUP\PUP\bin\Debug\netstandard2.0\PUP.pdb
+C:\Users\Aceje\source\repos\PUP\PUP\PUP\obj\Debug\netstandard2.0\PUP.csproj.AssemblyReference.cache
+C:\Users\Aceje\source\repos\PUP\PUP\PUP\obj\Debug\netstandard2.0\PUP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aceje\source\repos\PUP\PUP\PUP\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Aceje\source\repos\PUP\PUP\PUP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Aceje\source\repos\PUP\PUP\PUP\obj\Debug\netstandard2.0\PUP.AssemblyInfoInputs.cache
+C:\Users\Aceje\source\repos\PUP\PUP\PUP\obj\Debug\netstandard2.0\PUP.AssemblyInfo.cs
+C:\Users\Aceje\source\repos\PUP\PUP\PUP\obj\Debug\netstandard2.0\PUP.csproj.CoreCompileInputs.cache
+C:\Users\Aceje\source\repos\PUP\PUP\PUP\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Aceje\source\repos\PUP\PUP\PUP\obj\Debug\netstandard2.0\PUP.dll
+C:\Users\Aceje\source\repos\PUP\PUP\PUP\obj\Debug\netstandard2.0\refint\PUP.dll
+C:\Users\Aceje\source\repos\PUP\PUP\PUP\obj\Debug\netstandard2.0\PUP.pdb

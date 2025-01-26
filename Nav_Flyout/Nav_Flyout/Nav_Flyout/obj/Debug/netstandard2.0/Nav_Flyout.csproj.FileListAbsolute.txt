@@ -1,0 +1,15 @@
+C:\Users\Aceje\source\repos\Nav_Flyout\Nav_Flyout\Nav_Flyout\obj\Debug\netstandard2.0\Nav_Flyout.csproj.AssemblyReference.cache
+C:\Users\Aceje\source\repos\Nav_Flyout\Nav_Flyout\Nav_Flyout\obj\Debug\netstandard2.0\Nav_Flyout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aceje\source\repos\Nav_Flyout\Nav_Flyout\Nav_Flyout\obj\Debug\netstandard2.0\AboutPage.xaml.g.cs
+C:\Users\Aceje\source\repos\Nav_Flyout\Nav_Flyout\Nav_Flyout\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Aceje\source\repos\Nav_Flyout\Nav_Flyout\Nav_Flyout\obj\Debug\netstandard2.0\CoursesPage.xaml.g.cs
+C:\Users\Aceje\source\repos\Nav_Flyout\Nav_Flyout\Nav_Flyout\obj\Debug\netstandard2.0\FlyoutMenuPage.xaml.g.cs
+C:\Users\Aceje\source\repos\Nav_Flyout\Nav_Flyout\Nav_Flyout\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\Aceje\source\repos\Nav_Flyout\Nav_Flyout\Nav_Flyout\obj\Debug\netstandard2.0\LogoutPage.xaml.g.cs
+C:\Users\Aceje\source\repos\Nav_Flyout\Nav_Flyout\Nav_Flyout\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Aceje\source\repos\Nav_Flyout\Nav_Flyout\Nav_Flyout\obj\Debug\netstandard2.0\Nav_Flyout.AssemblyInfoInputs.cache
+C:\Users\Aceje\source\repos\Nav_Flyout\Nav_Flyout\Nav_Flyout\obj\Debug\netstandard2.0\Nav_Flyout.AssemblyInfo.cs
+C:\Users\Aceje\source\repos\Nav_Flyout\Nav_Flyout\Nav_Flyout\obj\Debug\netstandard2.0\Nav_Flyout.csproj.CoreCompileInputs.cache
+C:\Users\Aceje\source\repos\Nav_Flyout\Nav_Flyout\Nav_Flyout\obj\Debug\netstandard2.0\Nav_Flyout.dll
+C:\Users\Aceje\source\repos\Nav_Flyout\Nav_Flyout\Nav_Flyout\obj\Debug\netstandard2.0\refint\Nav_Flyout.dll
+C:\Users\Aceje\source\repos\Nav_Flyout\Nav_Flyout\Nav_Flyout\obj\Debug\netstandard2.0\Nav_Flyout.pdb

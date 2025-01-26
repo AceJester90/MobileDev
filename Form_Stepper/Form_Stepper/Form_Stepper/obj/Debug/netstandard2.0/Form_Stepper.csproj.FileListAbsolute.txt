@@ -1,0 +1,15 @@
+C:\Users\Aceje\source\repos\Form_Stepper\Form_Stepper\Form_Stepper\bin\Debug\netstandard2.0\Form_Stepper.deps.json
+C:\Users\Aceje\source\repos\Form_Stepper\Form_Stepper\Form_Stepper\bin\Debug\netstandard2.0\Form_Stepper.dll
+C:\Users\Aceje\source\repos\Form_Stepper\Form_Stepper\Form_Stepper\bin\Debug\netstandard2.0\ref\Form_Stepper.dll
+C:\Users\Aceje\source\repos\Form_Stepper\Form_Stepper\Form_Stepper\bin\Debug\netstandard2.0\Form_Stepper.pdb
+C:\Users\Aceje\source\repos\Form_Stepper\Form_Stepper\Form_Stepper\obj\Debug\netstandard2.0\Form_Stepper.csproj.AssemblyReference.cache
+C:\Users\Aceje\source\repos\Form_Stepper\Form_Stepper\Form_Stepper\obj\Debug\netstandard2.0\Form_Stepper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aceje\source\repos\Form_Stepper\Form_Stepper\Form_Stepper\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Aceje\source\repos\Form_Stepper\Form_Stepper\Form_Stepper\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Aceje\source\repos\Form_Stepper\Form_Stepper\Form_Stepper\obj\Debug\netstandard2.0\Form_Stepper.AssemblyInfoInputs.cache
+C:\Users\Aceje\source\repos\Form_Stepper\Form_Stepper\Form_Stepper\obj\Debug\netstandard2.0\Form_Stepper.AssemblyInfo.cs
+C:\Users\Aceje\source\repos\Form_Stepper\Form_Stepper\Form_Stepper\obj\Debug\netstandard2.0\Form_Stepper.csproj.CoreCompileInputs.cache
+C:\Users\Aceje\source\repos\Form_Stepper\Form_Stepper\Form_Stepper\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Aceje\source\repos\Form_Stepper\Form_Stepper\Form_Stepper\obj\Debug\netstandard2.0\Form_Stepper.dll
+C:\Users\Aceje\source\repos\Form_Stepper\Form_Stepper\Form_Stepper\obj\Debug\netstandard2.0\refint\Form_Stepper.dll
+C:\Users\Aceje\source\repos\Form_Stepper\Form_Stepper\Form_Stepper\obj\Debug\netstandard2.0\Form_Stepper.pdb

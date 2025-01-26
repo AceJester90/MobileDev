@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tablea.MainPage">
+
+    <TableView Intent="Settings">
+        <TableRoot>
+            <TableSection Title="SIM Application" TextColor="White">
+                <EntryCell Label="Name" Placeholder="SIM1 Name"/>
+                <SwitchCell Text="Active"/>
+                <EntryCell Label="Name" Placeholder="SIM2 Name"/>
+                <SwitchCell Text="Active"/>
+            </TableSection>
+            <TableSection Title="Sound" TextColor="White">
+                <SwitchCell Text="Text"/>
+                <SwitchCell Text="Call" IsEnabled="True"/>
+            </TableSection>
+            <TableSection Title="Brightness" TextColor="White">
+                <ViewCell>
+                    <StackLayout Orientation="Horizontal"
+                                 Margin="10">
+                        <Image Source="https://static.vecteezy.com/system/resources/previews/000/442/655/original/brightness-vector-icon.jpg"/>
+                        <Slider x:Name="slider"
+                                Maximum="100"
+                                Minimum="0"
+                                MinimumTrackColor="White"
+                                HorizontalOptions="FillAndExpand"/>
+                        <Label x:Name="brightnessValue"
+                               BindingContext="{x:Reference slider}"
+                               Text="{Binding Value}"/>
+                    </StackLayout>
+                </ViewCell>
+            </TableSection>
+        </TableRoot>
+    </TableView>
+
+
+</ContentPage>

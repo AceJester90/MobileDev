@@ -1,0 +1,17 @@
+C:\Users\Aceje\source\repos\Nav_Tab\Nav_Tab\Nav_Tab\obj\Debug\netstandard2.0\Nav_Tab.csproj.AssemblyReference.cache
+C:\Users\Aceje\source\repos\Nav_Tab\Nav_Tab\Nav_Tab\obj\Debug\netstandard2.0\Nav_Tab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aceje\source\repos\Nav_Tab\Nav_Tab\Nav_Tab\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Aceje\source\repos\Nav_Tab\Nav_Tab\Nav_Tab\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Aceje\source\repos\Nav_Tab\Nav_Tab\Nav_Tab\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Aceje\source\repos\Nav_Tab\Nav_Tab\Nav_Tab\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\Aceje\source\repos\Nav_Tab\Nav_Tab\Nav_Tab\obj\Debug\netstandard2.0\Nav_Tab.AssemblyInfoInputs.cache
+C:\Users\Aceje\source\repos\Nav_Tab\Nav_Tab\Nav_Tab\obj\Debug\netstandard2.0\Nav_Tab.AssemblyInfo.cs
+C:\Users\Aceje\source\repos\Nav_Tab\Nav_Tab\Nav_Tab\obj\Debug\netstandard2.0\Nav_Tab.csproj.CoreCompileInputs.cache
+C:\Users\Aceje\source\repos\Nav_Tab\Nav_Tab\Nav_Tab\bin\Debug\netstandard2.0\Nav_Tab.deps.json
+C:\Users\Aceje\source\repos\Nav_Tab\Nav_Tab\Nav_Tab\bin\Debug\netstandard2.0\Nav_Tab.dll
+C:\Users\Aceje\source\repos\Nav_Tab\Nav_Tab\Nav_Tab\bin\Debug\netstandard2.0\ref\Nav_Tab.dll
+C:\Users\Aceje\source\repos\Nav_Tab\Nav_Tab\Nav_Tab\bin\Debug\netstandard2.0\Nav_Tab.pdb
+C:\Users\Aceje\source\repos\Nav_Tab\Nav_Tab\Nav_Tab\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Aceje\source\repos\Nav_Tab\Nav_Tab\Nav_Tab\obj\Debug\netstandard2.0\Nav_Tab.dll
+C:\Users\Aceje\source\repos\Nav_Tab\Nav_Tab\Nav_Tab\obj\Debug\netstandard2.0\refint\Nav_Tab.dll
+C:\Users\Aceje\source\repos\Nav_Tab\Nav_Tab\Nav_Tab\obj\Debug\netstandard2.0\Nav_Tab.pdb

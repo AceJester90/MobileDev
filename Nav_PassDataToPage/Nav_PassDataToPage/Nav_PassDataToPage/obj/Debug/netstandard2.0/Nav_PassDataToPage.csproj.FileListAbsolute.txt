@@ -1,0 +1,16 @@
+C:\Users\Aceje\source\repos\Nav_PassDataToPage\Nav_PassDataToPage\Nav_PassDataToPage\bin\Debug\netstandard2.0\Nav_PassDataToPage.deps.json
+C:\Users\Aceje\source\repos\Nav_PassDataToPage\Nav_PassDataToPage\Nav_PassDataToPage\bin\Debug\netstandard2.0\Nav_PassDataToPage.dll
+C:\Users\Aceje\source\repos\Nav_PassDataToPage\Nav_PassDataToPage\Nav_PassDataToPage\bin\Debug\netstandard2.0\ref\Nav_PassDataToPage.dll
+C:\Users\Aceje\source\repos\Nav_PassDataToPage\Nav_PassDataToPage\Nav_PassDataToPage\bin\Debug\netstandard2.0\Nav_PassDataToPage.pdb
+C:\Users\Aceje\source\repos\Nav_PassDataToPage\Nav_PassDataToPage\Nav_PassDataToPage\obj\Debug\netstandard2.0\Nav_PassDataToPage.csproj.AssemblyReference.cache
+C:\Users\Aceje\source\repos\Nav_PassDataToPage\Nav_PassDataToPage\Nav_PassDataToPage\obj\Debug\netstandard2.0\Nav_PassDataToPage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aceje\source\repos\Nav_PassDataToPage\Nav_PassDataToPage\Nav_PassDataToPage\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Aceje\source\repos\Nav_PassDataToPage\Nav_PassDataToPage\Nav_PassDataToPage\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Aceje\source\repos\Nav_PassDataToPage\Nav_PassDataToPage\Nav_PassDataToPage\obj\Debug\netstandard2.0\StudentInfoPage.xaml.g.cs
+C:\Users\Aceje\source\repos\Nav_PassDataToPage\Nav_PassDataToPage\Nav_PassDataToPage\obj\Debug\netstandard2.0\Nav_PassDataToPage.AssemblyInfoInputs.cache
+C:\Users\Aceje\source\repos\Nav_PassDataToPage\Nav_PassDataToPage\Nav_PassDataToPage\obj\Debug\netstandard2.0\Nav_PassDataToPage.AssemblyInfo.cs
+C:\Users\Aceje\source\repos\Nav_PassDataToPage\Nav_PassDataToPage\Nav_PassDataToPage\obj\Debug\netstandard2.0\Nav_PassDataToPage.csproj.CoreCompileInputs.cache
+C:\Users\Aceje\source\repos\Nav_PassDataToPage\Nav_PassDataToPage\Nav_PassDataToPage\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Aceje\source\repos\Nav_PassDataToPage\Nav_PassDataToPage\Nav_PassDataToPage\obj\Debug\netstandard2.0\Nav_PassDataToPage.dll
+C:\Users\Aceje\source\repos\Nav_PassDataToPage\Nav_PassDataToPage\Nav_PassDataToPage\obj\Debug\netstandard2.0\refint\Nav_PassDataToPage.dll
+C:\Users\Aceje\source\repos\Nav_PassDataToPage\Nav_PassDataToPage\Nav_PassDataToPage\obj\Debug\netstandard2.0\Nav_PassDataToPage.pdb

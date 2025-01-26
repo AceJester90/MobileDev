@@ -1,0 +1,17 @@
+C:\Users\Aceje\source\repos\Nav_Hierarchical\Nav_Hierarchical\Nav_Hierarchical\bin\Debug\netstandard2.0\Nav_Hierarchical.deps.json
+C:\Users\Aceje\source\repos\Nav_Hierarchical\Nav_Hierarchical\Nav_Hierarchical\bin\Debug\netstandard2.0\Nav_Hierarchical.dll
+C:\Users\Aceje\source\repos\Nav_Hierarchical\Nav_Hierarchical\Nav_Hierarchical\bin\Debug\netstandard2.0\ref\Nav_Hierarchical.dll
+C:\Users\Aceje\source\repos\Nav_Hierarchical\Nav_Hierarchical\Nav_Hierarchical\bin\Debug\netstandard2.0\Nav_Hierarchical.pdb
+C:\Users\Aceje\source\repos\Nav_Hierarchical\Nav_Hierarchical\Nav_Hierarchical\obj\Debug\netstandard2.0\Nav_Hierarchical.csproj.AssemblyReference.cache
+C:\Users\Aceje\source\repos\Nav_Hierarchical\Nav_Hierarchical\Nav_Hierarchical\obj\Debug\netstandard2.0\Nav_Hierarchical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aceje\source\repos\Nav_Hierarchical\Nav_Hierarchical\Nav_Hierarchical\obj\Debug\netstandard2.0\about.xaml.g.cs
+C:\Users\Aceje\source\repos\Nav_Hierarchical\Nav_Hierarchical\Nav_Hierarchical\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Aceje\source\repos\Nav_Hierarchical\Nav_Hierarchical\Nav_Hierarchical\obj\Debug\netstandard2.0\courses.xaml.g.cs
+C:\Users\Aceje\source\repos\Nav_Hierarchical\Nav_Hierarchical\Nav_Hierarchical\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Aceje\source\repos\Nav_Hierarchical\Nav_Hierarchical\Nav_Hierarchical\obj\Debug\netstandard2.0\Nav_Hierarchical.AssemblyInfoInputs.cache
+C:\Users\Aceje\source\repos\Nav_Hierarchical\Nav_Hierarchical\Nav_Hierarchical\obj\Debug\netstandard2.0\Nav_Hierarchical.AssemblyInfo.cs
+C:\Users\Aceje\source\repos\Nav_Hierarchical\Nav_Hierarchical\Nav_Hierarchical\obj\Debug\netstandard2.0\Nav_Hierarchical.csproj.CoreCompileInputs.cache
+C:\Users\Aceje\source\repos\Nav_Hierarchical\Nav_Hierarchical\Nav_Hierarchical\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Aceje\source\repos\Nav_Hierarchical\Nav_Hierarchical\Nav_Hierarchical\obj\Debug\netstandard2.0\Nav_Hierarchical.dll
+C:\Users\Aceje\source\repos\Nav_Hierarchical\Nav_Hierarchical\Nav_Hierarchical\obj\Debug\netstandard2.0\refint\Nav_Hierarchical.dll
+C:\Users\Aceje\source\repos\Nav_Hierarchical\Nav_Hierarchical\Nav_Hierarchical\obj\Debug\netstandard2.0\Nav_Hierarchical.pdb

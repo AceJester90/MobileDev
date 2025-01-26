@@ -1,0 +1,15 @@
+C:\Users\Aceje\source\repos\Tablea\Tablea\Tablea\bin\Debug\netstandard2.0\Tablea.deps.json
+C:\Users\Aceje\source\repos\Tablea\Tablea\Tablea\bin\Debug\netstandard2.0\Tablea.dll
+C:\Users\Aceje\source\repos\Tablea\Tablea\Tablea\bin\Debug\netstandard2.0\ref\Tablea.dll
+C:\Users\Aceje\source\repos\Tablea\Tablea\Tablea\bin\Debug\netstandard2.0\Tablea.pdb
+C:\Users\Aceje\source\repos\Tablea\Tablea\Tablea\obj\Debug\netstandard2.0\Tablea.csproj.AssemblyReference.cache
+C:\Users\Aceje\source\repos\Tablea\Tablea\Tablea\obj\Debug\netstandard2.0\Tablea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aceje\source\repos\Tablea\Tablea\Tablea\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Aceje\source\repos\Tablea\Tablea\Tablea\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Aceje\source\repos\Tablea\Tablea\Tablea\obj\Debug\netstandard2.0\Tablea.AssemblyInfoInputs.cache
+C:\Users\Aceje\source\repos\Tablea\Tablea\Tablea\obj\Debug\netstandard2.0\Tablea.AssemblyInfo.cs
+C:\Users\Aceje\source\repos\Tablea\Tablea\Tablea\obj\Debug\netstandard2.0\Tablea.csproj.CoreCompileInputs.cache
+C:\Users\Aceje\source\repos\Tablea\Tablea\Tablea\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Aceje\source\repos\Tablea\Tablea\Tablea\obj\Debug\netstandard2.0\Tablea.dll
+C:\Users\Aceje\source\repos\Tablea\Tablea\Tablea\obj\Debug\netstandard2.0\refint\Tablea.dll
+C:\Users\Aceje\source\repos\Tablea\Tablea\Tablea\obj\Debug\netstandard2.0\Tablea.pdb

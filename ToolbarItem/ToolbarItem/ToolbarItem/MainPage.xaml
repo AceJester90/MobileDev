@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ToolbarItem.MainPage"
+             Title="Students">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add"
+                     Clicked="ToolbarItem_Clicked"  
+                     IconImageSource="add.png"
+                     Priority="2"
+                     Order="Primary"/>
+        <ToolbarItem Text="Profile"
+                     Order="Secondary"
+                     Priority="1"/>
+        <ToolbarItem Text="Logout"
+                     Order="Secondary"
+                     Priority="0"/>
+    </ContentPage.ToolbarItems>
+
+</ContentPage>

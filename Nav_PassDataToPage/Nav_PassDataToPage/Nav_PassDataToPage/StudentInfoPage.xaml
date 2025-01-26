@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Nav_PassDataToPage.StudentInfoPage"
+             Title="Student Information">
+
+    <StackLayout Margin="15">
+        <Image Source="{Binding ImageUrl}"
+               HeightRequest="150"
+               WidthRequest="150"/>
+        <Label Text="{Binding Name}"
+               TextColor="White"
+               FontSize="25"
+               HorizontalOptions="Center"/>
+        <Label Text="{Binding Address}"
+               TextColor="White"/>
+        <Label Text="{Binding Course}"
+               TextColor="White"/>
+        <Label Text="{Binding Status}"
+               TextColor="White"/>
+    </StackLayout>
+    
+</ContentPage>

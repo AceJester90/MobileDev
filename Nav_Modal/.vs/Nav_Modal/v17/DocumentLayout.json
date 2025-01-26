@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aceje\\source\\repos\\Nav_Modal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFBAB24-5742-4811-80CB-916C5F661736}|Nav_Modal\\Nav_Modal\\Nav_Modal.csproj|c:\\users\\aceje\\source\\repos\\nav_modal\\nav_modal\\nav_modal\\samplepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFBAB24-5742-4811-80CB-916C5F661736}|Nav_Modal\\Nav_Modal\\Nav_Modal.csproj|solutionrelative:nav_modal\\nav_modal\\samplepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFBAB24-5742-4811-80CB-916C5F661736}|Nav_Modal\\Nav_Modal\\Nav_Modal.csproj|c:\\users\\aceje\\source\\repos\\nav_modal\\nav_modal\\nav_modal\\samplepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{AFFBAB24-5742-4811-80CB-916C5F661736}|Nav_Modal\\Nav_Modal\\Nav_Modal.csproj|solutionrelative:nav_modal\\nav_modal\\samplepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFBAB24-5742-4811-80CB-916C5F661736}|Nav_Modal\\Nav_Modal\\Nav_Modal.csproj|c:\\users\\aceje\\source\\repos\\nav_modal\\nav_modal\\nav_modal\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{AFFBAB24-5742-4811-80CB-916C5F661736}|Nav_Modal\\Nav_Modal\\Nav_Modal.csproj|solutionrelative:nav_modal\\nav_modal\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFBAB24-5742-4811-80CB-916C5F661736}|Nav_Modal\\Nav_Modal\\Nav_Modal.csproj|c:\\users\\aceje\\source\\repos\\nav_modal\\nav_modal\\nav_modal\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFBAB24-5742-4811-80CB-916C5F661736}|Nav_Modal\\Nav_Modal\\Nav_Modal.csproj|solutionrelative:nav_modal\\nav_modal\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFBAB24-5742-4811-80CB-916C5F661736}|Nav_Modal\\Nav_Modal\\Nav_Modal.csproj|c:\\users\\aceje\\source\\repos\\nav_modal\\nav_modal\\nav_modal\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFBAB24-5742-4811-80CB-916C5F661736}|Nav_Modal\\Nav_Modal\\Nav_Modal.csproj|solutionrelative:nav_modal\\nav_modal\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SamplePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Aceje\\source\\repos\\Nav_Modal\\Nav_Modal\\Nav_Modal\\SamplePage.xaml.cs",
+              "RelativeDocumentMoniker": "Nav_Modal\\Nav_Modal\\SamplePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Aceje\\source\\repos\\Nav_Modal\\Nav_Modal\\Nav_Modal\\SamplePage.xaml.cs",
+              "RelativeToolTip": "Nav_Modal\\Nav_Modal\\SamplePage.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswBwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:08:45.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Aceje\\source\\repos\\Nav_Modal\\Nav_Modal\\Nav_Modal\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Nav_Modal\\Nav_Modal\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Aceje\\source\\repos\\Nav_Modal\\Nav_Modal\\Nav_Modal\\MainPage.xaml.cs",
+              "RelativeToolTip": "Nav_Modal\\Nav_Modal\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:08:27.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Aceje\\source\\repos\\Nav_Modal\\Nav_Modal\\Nav_Modal\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Nav_Modal\\Nav_Modal\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Aceje\\source\\repos\\Nav_Modal\\Nav_Modal\\Nav_Modal\\App.xaml.cs",
+              "RelativeToolTip": "Nav_Modal\\Nav_Modal\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:06:34.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Aceje\\source\\repos\\Nav_Modal\\Nav_Modal\\Nav_Modal\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Nav_Modal\\Nav_Modal\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Aceje\\source\\repos\\Nav_Modal\\Nav_Modal\\Nav_Modal\\MainPage.xaml",
+              "RelativeToolTip": "Nav_Modal\\Nav_Modal\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-30T15:04:27.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SamplePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Aceje\\source\\repos\\Nav_Modal\\Nav_Modal\\Nav_Modal\\SamplePage.xaml",
+              "RelativeDocumentMoniker": "Nav_Modal\\Nav_Modal\\SamplePage.xaml",
+              "ToolTip": "C:\\Users\\Aceje\\source\\repos\\Nav_Modal\\Nav_Modal\\Nav_Modal\\SamplePage.xaml",
+              "RelativeToolTip": "Nav_Modal\\Nav_Modal\\SamplePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-30T15:07:21.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

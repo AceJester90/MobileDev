@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Form_Stepper.MainPage">
+
+    <StackLayout HorizontalOptions="Center">
+        <Label x:Name="label"
+               BindingContext="{x:Reference stepper}"
+               Text="{Binding Value, StringFormat='Value: {0}'}"
+               Rotation="{Binding Value}"
+               FontSize="Large"
+               VerticalOptions="CenterAndExpand"/>
+        <Stepper Maximum="360"
+                 Increment="10"
+                 HorizontalOptions="End"
+                 x:Name="stepper"/>
+    </StackLayout>
+
+</ContentPage>

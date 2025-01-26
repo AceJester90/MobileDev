@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aceje\\source\\repos\\Nav_Carousel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AEB6F2-A13B-4434-92D1-358A09865BC8}|Nav_Carousel\\Nav_Carousel\\Nav_Carousel.csproj|c:\\users\\aceje\\source\\repos\\nav_carousel\\nav_carousel\\nav_carousel\\datamodel\\studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1AEB6F2-A13B-4434-92D1-358A09865BC8}|Nav_Carousel\\Nav_Carousel\\Nav_Carousel.csproj|solutionrelative:nav_carousel\\nav_carousel\\datamodel\\studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AEB6F2-A13B-4434-92D1-358A09865BC8}|Nav_Carousel\\Nav_Carousel\\Nav_Carousel.csproj|c:\\users\\aceje\\source\\repos\\nav_carousel\\nav_carousel\\nav_carousel\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1AEB6F2-A13B-4434-92D1-358A09865BC8}|Nav_Carousel\\Nav_Carousel\\Nav_Carousel.csproj|solutionrelative:nav_carousel\\nav_carousel\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AEB6F2-A13B-4434-92D1-358A09865BC8}|Nav_Carousel\\Nav_Carousel\\Nav_Carousel.csproj|c:\\users\\aceje\\source\\repos\\nav_carousel\\nav_carousel\\nav_carousel\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{B1AEB6F2-A13B-4434-92D1-358A09865BC8}|Nav_Carousel\\Nav_Carousel\\Nav_Carousel.csproj|solutionrelative:nav_carousel\\nav_carousel\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Aceje\\source\\repos\\Nav_Carousel\\Nav_Carousel\\Nav_Carousel\\DataModel\\StudentInfo.cs",
+              "RelativeDocumentMoniker": "Nav_Carousel\\Nav_Carousel\\DataModel\\StudentInfo.cs",
+              "ToolTip": "C:\\Users\\Aceje\\source\\repos\\Nav_Carousel\\Nav_Carousel\\Nav_Carousel\\DataModel\\StudentInfo.cs",
+              "RelativeToolTip": "Nav_Carousel\\Nav_Carousel\\DataModel\\StudentInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:38:22.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Aceje\\source\\repos\\Nav_Carousel\\Nav_Carousel\\Nav_Carousel\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Nav_Carousel\\Nav_Carousel\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Aceje\\source\\repos\\Nav_Carousel\\Nav_Carousel\\Nav_Carousel\\MainPage.xaml.cs",
+              "RelativeToolTip": "Nav_Carousel\\Nav_Carousel\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:14:12.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Aceje\\source\\repos\\Nav_Carousel\\Nav_Carousel\\Nav_Carousel\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Nav_Carousel\\Nav_Carousel\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Aceje\\source\\repos\\Nav_Carousel\\Nav_Carousel\\Nav_Carousel\\MainPage.xaml",
+              "RelativeToolTip": "Nav_Carousel\\Nav_Carousel\\MainPage.xaml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-30T13:12:53.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

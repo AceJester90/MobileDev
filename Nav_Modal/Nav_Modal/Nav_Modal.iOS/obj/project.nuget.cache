@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pOhg38KGhYc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aceje\\source\\repos\\Nav_Modal\\Nav_Modal\\Nav_Modal.iOS\\Nav_Modal.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aceje\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Aceje\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Aceje\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

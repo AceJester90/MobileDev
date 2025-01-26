@@ -1,0 +1,15 @@
+C:\Users\Aceje\source\repos\Pickers\Pickers\Pickers\bin\Debug\netstandard2.0\Pickers.deps.json
+C:\Users\Aceje\source\repos\Pickers\Pickers\Pickers\bin\Debug\netstandard2.0\Pickers.dll
+C:\Users\Aceje\source\repos\Pickers\Pickers\Pickers\bin\Debug\netstandard2.0\ref\Pickers.dll
+C:\Users\Aceje\source\repos\Pickers\Pickers\Pickers\bin\Debug\netstandard2.0\Pickers.pdb
+C:\Users\Aceje\source\repos\Pickers\Pickers\Pickers\obj\Debug\netstandard2.0\Pickers.csproj.AssemblyReference.cache
+C:\Users\Aceje\source\repos\Pickers\Pickers\Pickers\obj\Debug\netstandard2.0\Pickers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aceje\source\repos\Pickers\Pickers\Pickers\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Aceje\source\repos\Pickers\Pickers\Pickers\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Aceje\source\repos\Pickers\Pickers\Pickers\obj\Debug\netstandard2.0\Pickers.AssemblyInfoInputs.cache
+C:\Users\Aceje\source\repos\Pickers\Pickers\Pickers\obj\Debug\netstandard2.0\Pickers.AssemblyInfo.cs
+C:\Users\Aceje\source\repos\Pickers\Pickers\Pickers\obj\Debug\netstandard2.0\Pickers.csproj.CoreCompileInputs.cache
+C:\Users\Aceje\source\repos\Pickers\Pickers\Pickers\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Aceje\source\repos\Pickers\Pickers\Pickers\obj\Debug\netstandard2.0\Pickers.dll
+C:\Users\Aceje\source\repos\Pickers\Pickers\Pickers\obj\Debug\netstandard2.0\refint\Pickers.dll
+C:\Users\Aceje\source\repos\Pickers\Pickers\Pickers\obj\Debug\netstandard2.0\Pickers.pdb

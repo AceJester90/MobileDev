@@ -1,0 +1,16 @@
+C:\Users\Aceje\source\repos\Nav_Modal\Nav_Modal\Nav_Modal\bin\Debug\netstandard2.0\Nav_Modal.deps.json
+C:\Users\Aceje\source\repos\Nav_Modal\Nav_Modal\Nav_Modal\bin\Debug\netstandard2.0\Nav_Modal.dll
+C:\Users\Aceje\source\repos\Nav_Modal\Nav_Modal\Nav_Modal\bin\Debug\netstandard2.0\ref\Nav_Modal.dll
+C:\Users\Aceje\source\repos\Nav_Modal\Nav_Modal\Nav_Modal\bin\Debug\netstandard2.0\Nav_Modal.pdb
+C:\Users\Aceje\source\repos\Nav_Modal\Nav_Modal\Nav_Modal\obj\Debug\netstandard2.0\Nav_Modal.csproj.AssemblyReference.cache
+C:\Users\Aceje\source\repos\Nav_Modal\Nav_Modal\Nav_Modal\obj\Debug\netstandard2.0\Nav_Modal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aceje\source\repos\Nav_Modal\Nav_Modal\Nav_Modal\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Aceje\source\repos\Nav_Modal\Nav_Modal\Nav_Modal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Aceje\source\repos\Nav_Modal\Nav_Modal\Nav_Modal\obj\Debug\netstandard2.0\SamplePage.xaml.g.cs
+C:\Users\Aceje\source\repos\Nav_Modal\Nav_Modal\Nav_Modal\obj\Debug\netstandard2.0\Nav_Modal.AssemblyInfoInputs.cache
+C:\Users\Aceje\source\repos\Nav_Modal\Nav_Modal\Nav_Modal\obj\Debug\netstandard2.0\Nav_Modal.AssemblyInfo.cs
+C:\Users\Aceje\source\repos\Nav_Modal\Nav_Modal\Nav_Modal\obj\Debug\netstandard2.0\Nav_Modal.csproj.CoreCompileInputs.cache
+C:\Users\Aceje\source\repos\Nav_Modal\Nav_Modal\Nav_Modal\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Aceje\source\repos\Nav_Modal\Nav_Modal\Nav_Modal\obj\Debug\netstandard2.0\Nav_Modal.dll
+C:\Users\Aceje\source\repos\Nav_Modal\Nav_Modal\Nav_Modal\obj\Debug\netstandard2.0\refint\Nav_Modal.dll
+C:\Users\Aceje\source\repos\Nav_Modal\Nav_Modal\Nav_Modal\obj\Debug\netstandard2.0\Nav_Modal.pdb

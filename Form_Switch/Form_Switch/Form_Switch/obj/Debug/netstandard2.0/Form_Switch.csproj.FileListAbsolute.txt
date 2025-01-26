@@ -1,0 +1,15 @@
+C:\Users\Aceje\source\repos\Form_Switch\Form_Switch\Form_Switch\bin\Debug\netstandard2.0\Form_Switch.deps.json
+C:\Users\Aceje\source\repos\Form_Switch\Form_Switch\Form_Switch\bin\Debug\netstandard2.0\Form_Switch.dll
+C:\Users\Aceje\source\repos\Form_Switch\Form_Switch\Form_Switch\bin\Debug\netstandard2.0\ref\Form_Switch.dll
+C:\Users\Aceje\source\repos\Form_Switch\Form_Switch\Form_Switch\bin\Debug\netstandard2.0\Form_Switch.pdb
+C:\Users\Aceje\source\repos\Form_Switch\Form_Switch\Form_Switch\obj\Debug\netstandard2.0\Form_Switch.csproj.AssemblyReference.cache
+C:\Users\Aceje\source\repos\Form_Switch\Form_Switch\Form_Switch\obj\Debug\netstandard2.0\Form_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aceje\source\repos\Form_Switch\Form_Switch\Form_Switch\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Aceje\source\repos\Form_Switch\Form_Switch\Form_Switch\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Aceje\source\repos\Form_Switch\Form_Switch\Form_Switch\obj\Debug\netstandard2.0\Form_Switch.AssemblyInfoInputs.cache
+C:\Users\Aceje\source\repos\Form_Switch\Form_Switch\Form_Switch\obj\Debug\netstandard2.0\Form_Switch.AssemblyInfo.cs
+C:\Users\Aceje\source\repos\Form_Switch\Form_Switch\Form_Switch\obj\Debug\netstandard2.0\Form_Switch.csproj.CoreCompileInputs.cache
+C:\Users\Aceje\source\repos\Form_Switch\Form_Switch\Form_Switch\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Aceje\source\repos\Form_Switch\Form_Switch\Form_Switch\obj\Debug\netstandard2.0\Form_Switch.dll
+C:\Users\Aceje\source\repos\Form_Switch\Form_Switch\Form_Switch\obj\Debug\netstandard2.0\refint\Form_Switch.dll
+C:\Users\Aceje\source\repos\Form_Switch\Form_Switch\Form_Switch\obj\Debug\netstandard2.0\Form_Switch.pdb
